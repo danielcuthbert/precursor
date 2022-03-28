@@ -10,16 +10,16 @@ A password manager means you can store all your passwords securely, so you donâ€
 
 Before I do this, I need to learn how the following works:
 
-* 1: Unambiguous Thin Register Abstraction (UTRA) - a register abstraction for accessing hardware resources
-* 2: How one stores credentials and accesses them in a secure way. 
-* 3: What is the Xous microkernel operating system?
-* 4: How to create an application in Rust 
-* 5: Do I need to use the Graphical Abstraction Manager (GAM)?
-* 6: What is the The Plausibly Deniable DataBase (PDDB) and how should I use it?
-* 7: How does one securely open and close the password manager? 
-* 8: How does one export all data? How does that work with Wi-Fi in a secure way?
-* 9: How does one get this app onto the device and sign it to run properly?
-* 10: Can the app detect when it has been tampered with? 
+1. Unambiguous Thin Register Abstraction (UTRA) - a register abstraction for accessing hardware resources
+1. How one stores credentials and accesses them in a secure way. 
+1. What is the Xous microkernel operating system?
+1. How to create an application in Rust 
+1. Do I need to use the Graphical Abstraction Manager (GAM)?
+1. What is the The Plausibly Deniable DataBase (PDDB) and how should I use it?
+1. How does one securely open and close the password manager? 
+1. How does one export all data? How does that work with Wi-Fi in a secure way?
+1. How does one get this app onto the device and sign it to run properly?
+1. Can the app detect when it has been tampered with? 
 
 As you can see from the above, this journey intimidates me but at the same time excites me as it's about designing a secure application from the start and validating each phase/function. 
 
